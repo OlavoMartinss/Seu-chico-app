@@ -31,10 +31,11 @@ Foram entrevistadas 8 pessoas, entre 19 e 30 anos, incluindo mulheres e pessoas 
 
 ## 5. Principais resultados
 
-Participantes se sentiram representados e ouvidos ao compartilharem suas experiências.
-Houve entusiasmo com a possibilidade de gerar renda extra por meio da plataforma.
-Interesse em divulgar e compartilhar o projeto.
-Demonstração de disposição para colaborar com o desenvolvimento da solução.
+Grande parte das mulheres entrevistadas relatou já ter vivenciado ou conhecer alguém que passou por situações de **assédio nesse contexto**, além de demonstrarem insegurança ao contratar profissionais desconhecidos.
+
+Entre os profissionais entrevistados, de ambos os gêneros, foi relatada a **dificuldade em divulgar seus serviços de forma consistente** e conquistar novos clientes.
+
+Como principais fatores de segurança, os participantes destacaram a possibilidade de **escolher o profissional** e contar com o **monitoramento do atendimento em tempo real pelo aplicativo**.
 
 ## 6. Principais dores identificadas
 
