@@ -1,4 +1,4 @@
-# Seu Chico — Pesquisa de Campo
+# Dona Chica — Pesquisa de Campo
 
 ## 1. Objetivo da pesquisa
 
