@@ -1,4 +1,4 @@
-# Seu Chico — Visão do Produto
+# Dona Chica — Visão do Produto
 
 ## 1. Sobre o projeto
 
