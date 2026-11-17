@@ -1,4 +1,4 @@
-# Seu Chico — Regras de Negócio
+# Dona Chica — Regras de Negócio
 
 ## RB-001 — Perfil profissional do prestador
 
